@@ -1,0 +1,23 @@
+
+.coming-soon{
+    margin-top: 8% !important;
+    padding-top: 5% !important;
+    padding-bottom: 5% !important;
+    display: flex !important;
+    align-items: center !important;
+    flex-direction: column !important;
+    justify-content: center !important;
+}
+.event-timer{
+    font-size: 5rem;
+    font-weight: bold !important;
+    padding: 3rem !important;
+}
+.countdown{
+    display: flex !important;
+    justify-content: space-around !important;
+    text-align: center;
+}
+.day,.hour,.minute,.second{
+    font-size: 3rem !important;
+}
